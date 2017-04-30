@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482140249 source:c:\users\travis\desktop\code\c++\tictactoe\main.cpp
+	<iostream>
+	<cstdlib>
+
